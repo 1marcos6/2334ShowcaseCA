@@ -4,7 +4,7 @@ Public display of Cellular Automata project. This project was done in the final 
 
 In the GitHub repo provided below, I specifically wrote a “Driver” class where I created a cellular automaton that corresponds to “rule” 22. I then evolved this automaton 25 steps, or 25 lines, into the future. Rule 22 of cellular automata produces a very interesting shape, and the more evolutions, the more interesting the patterns are. Here is the machine after 25 evolutions: 
 
- 
+ ![](rule22.png)
 
 The periods represent 0, or off – while the 0 represents 1, or on. 
 
