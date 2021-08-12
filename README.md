@@ -1,0 +1,2 @@
+# 2334ShowcaseCA
+Public display of Cellular Automata project. This project was done in the final months of the Spring 2020 semester - at the start of the COVID-19 pandemic. Specifically, this project demonstrates my learned proficiency with object oriented programming and concepts within it such as polymorphism, inheritance, and encapsulation. I was also able to become very familiar with the mathematical concept of cellular automata; a concept that at first seems daunting but slowly became more understandable.
